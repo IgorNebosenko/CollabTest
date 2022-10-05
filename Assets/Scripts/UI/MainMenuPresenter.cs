@@ -1,4 +1,5 @@
 ﻿using System;
+using UnityEngine;
 
 namespace CT.UI
 {
@@ -13,6 +14,7 @@ namespace CT.UI
 
         public void SetRedColor()
         {
+            Debug.Log("Red");
             throw new NotImplementedException();
         }
         
